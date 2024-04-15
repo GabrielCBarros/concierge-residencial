@@ -117,7 +117,7 @@ body {
   width: 250px;
 }
 
-/* @media only screen and (max-width: 1200px) {
+@media only screen and (width: 1024px) and (height: 800px) {
   .central {
     padding: 10px 10px 10px 10px;
   }
@@ -189,10 +189,10 @@ body {
     background-color: #00000070;
     height: 80px;
   }
-} */
+}
 
 /* ipad pro */
-@media only screen and (max-width: 1024px) {
+@media only screen and (width: 1024px) and (height: 1366px) {
   .central {
     padding: 50px 50px 0 50px;
   }
