@@ -117,6 +117,80 @@ body {
   width: 250px;
 }
 
+/* @media only screen and (max-width: 1200px) {
+  .central {
+    padding: 10px 10px 10px 10px;
+  }
+
+  .texto {
+    height: 650px;
+  }
+
+  .texto-maior {
+    font-size: 35px;
+    padding: 100px 10px 0 10px;
+    padding-right: 200px;
+    padding-left: 100px;
+  }
+
+  .texto-menor {
+    font-size: 22px;
+    padding: 0x 10px 0 10px;
+    padding-right: 250px;
+    padding-left: 100px;
+  }
+
+  .logo-contato {
+    display: flex;
+    padding-right: 100px;
+    padding-top: 100px;
+  }
+
+  .aux {
+    align-content: end;
+  }
+
+  .logo img {
+    width: 200px;
+  }
+
+  .ddd {
+    font-size: 15px;
+  }
+
+  .numero {
+    font-size: 22px;
+  }
+
+  .whatsapp i {
+    font-size: 20px;
+  }
+
+  .botao {
+    padding: 6px;
+    width: 250px;
+    height: 55px;
+  }
+
+  .contato {
+    font-size: 22px;
+    margin-top: 40px;
+  }
+
+  .site-atualizacao-texto {
+    font-size: 25px;
+  }
+
+  .site-atualizacao {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #00000070;
+    height: 80px;
+  }
+} */
+
 /* ipad pro */
 @media only screen and (max-width: 1024px) {
   .central {
@@ -440,3 +514,77 @@ body {
     height: 80px;
   }
 }
+
+/* @media only screen and (max-width: 1024px) {
+  .central {
+    padding: 10px 10px 10px 10px;
+  }
+
+  .texto {
+    height: 650px;
+  }
+
+  .texto-maior {
+    font-size: 35px;
+    padding: 100px 10px 0 10px;
+    padding-right: 200px;
+    padding-left: 100px;
+  }
+
+  .texto-menor {
+    font-size: 22px;
+    padding: 0x 10px 0 10px;
+    padding-right: 250px;
+    padding-left: 100px;
+  }
+
+  .logo-contato {
+    display: flex;
+    padding-right: 100px;
+    padding-top: 100px;
+  }
+
+  .aux {
+    align-content: end;
+  }
+
+  .logo img {
+    width: 200px;
+  }
+
+  .ddd {
+    font-size: 15px;
+  }
+
+  .numero {
+    font-size: 22px;
+  }
+
+  .whatsapp i {
+    font-size: 20px;
+  }
+
+  .botao {
+    padding: 6px;
+    width: 250px;
+    height: 55px;
+  }
+
+  .contato {
+    font-size: 22px;
+    margin-top: 40px;
+  }
+
+  .site-atualizacao-texto {
+    font-size: 25px;
+  }
+
+  .site-atualizacao {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #00000070;
+    height: 80px;
+  }
+} */
